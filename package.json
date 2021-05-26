@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Fictional Company that offers toors in nature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suraj7879/Nature-Toor-Travel.git"
+  },
+  "author": "Suraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suraj7879/Nature-Toor-Travel/issues"
+  },
+  "homepage": "https://github.com/Suraj7879/Nature-Toor-Travel#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
